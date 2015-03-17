@@ -5,3 +5,4 @@ flush stdout
 set name [gets stdin]
 
 puts "Hello $name"
+
